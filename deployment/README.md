@@ -1,2 +1,3 @@
-# StreamMind
-AI-native Streaming Infrastructure Platform
+# Deployment
+
+Container, Kubernetes, and release configuration for StreamMind environments.
