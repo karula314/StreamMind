@@ -1,3 +1,3 @@
 # StreamMind documentation
 
-Design notes, environment guides, operational runbooks, and architecture records.
+StreamMind focuses on AI-native Stateful Stream Processing rather than stateless event handling.
